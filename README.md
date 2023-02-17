@@ -3,7 +3,11 @@
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
-213
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> branch1
 # Naming cheatsheet
 
 - [English language](#english-language)
